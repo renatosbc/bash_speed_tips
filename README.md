@@ -12,3 +12,7 @@ time for i in {1..10000}; do echo $(($i + 1000)); done  -> 0.05s
 touch ./newfile   NO!
 >./newfile        YES!
 ```
+  
+ - To Do  
+Bash faz contas  
+Bash faz substituição e busca em variáveis  
